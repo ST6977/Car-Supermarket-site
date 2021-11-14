@@ -1,0 +1,16 @@
+.header {
+  height: 100vh;
+  background-image: url(https://lp-auto-assets.s3.us-east-1.amazonaws.com/19/bmw/5series/header.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.text {
+  padding-top: 200px;
+}
+.header {
+  color: crimson;
+}
+
+.paragraph {
+  font-weight: bold;
+}
