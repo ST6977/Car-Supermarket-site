@@ -1,10 +1,8 @@
-Live Site Link:
-
 ##Bullet Points
 
 Livesite link: https://assignment-12-e2a13.web.app/
 
-1. This is a Car SuperMarket Web app
+1. This is a Car SuperMarket E-commerce site
 2. user have to Log in
 3. in this app there are two type sing in system 1. google Sing In 2. Email Password register/sing in
 4. User can select a car and can order
@@ -20,4 +18,4 @@ Admin part
 4. add products
 5. Delete Products
 
-# niche-website-client-side-ST6977
+
